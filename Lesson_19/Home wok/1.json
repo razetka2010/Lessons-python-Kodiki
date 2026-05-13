@@ -1,0 +1,37 @@
+{
+    "1": {
+        "name": "iPhone 11 64GB",
+        "type": "apple",
+        "color": "black",
+        "price": 37999,
+        "count": 7
+    },
+    "2": {
+        "name": "iPhone 12 64GB",
+        "type": "apple",
+        "color": "white",
+        "price": 54990,
+        "count": 2
+    },
+    "3": {
+        "name": "Apple MacBook Air 15 (2025) M4 (10CPU/10GPU/16GB/512GB) Midnight (MW1M3)",
+        "type": "apple",
+        "color": "white",
+        "price": 130360,
+        "count": 3
+    },
+    "4": {
+        "name": "GeForce RTX 5090 GAMEROCK 32G Palit",
+        "type": " NVIDIA",
+        "color": "black",
+        "price": 294019,
+        "count": 8
+    },
+    "5": {
+        "name": "Sima-Land SL-01",
+        "type": "Клавиатура",
+        "color": "black",
+        "price": 389,
+        "count": 20
+    }
+}

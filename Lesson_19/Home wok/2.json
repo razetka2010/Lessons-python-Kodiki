@@ -1,0 +1,17 @@
+{
+    "1": {
+        "name": "MacBook",
+        "type": "Ноутбук",
+        "color": "silvery",
+        "year": 2025
+    },
+    "2": {
+        "name": "Linux",
+        "type": "Компьютер",
+        "color": "white",
+        "year": 2020
+    }
+
+}
+
+

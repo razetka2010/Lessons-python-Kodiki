@@ -1,0 +1,25 @@
+{
+    "1": {
+        "name": "Аня",
+        "level": 2,
+        "favorite": "cats"
+    },
+    "2": {
+        "name": "Игорь",
+        "level": 5,
+        "favorite": "minecraft"
+    },
+    "3": {
+        "name": "Вадим",
+        "level": 6,
+        "favorite": "Python"
+    },
+    "4": {
+        "name": "Артём",
+        "level": 1,
+        "favorite": "Vk"
+    },
+    "567396586": {
+        "name": "Артём"
+    }
+}
