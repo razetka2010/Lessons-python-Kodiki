@@ -1,0 +1,13 @@
+[
+    {"hours": 0, "score": 0},
+    {"hours": 1, "score": 10},
+    {"hours": 2, "score": 20},
+    {"hours": 3, "score": 30},
+    {"hours": 4, "score": 40},
+    {"hours": 5, "score": 50},
+    {"hours": 6, "score": 60},
+    {"hours": 7, "score": 70},
+    {"hours": 8, "score": 80},
+    {"hours": 9, "score": 90},
+    {"hours": 10, "score": 100}
+]
