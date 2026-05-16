@@ -35,6 +35,7 @@ Course/
 ├── Lesson_32/ # Sentiment Analysis (TF-IDF + LogisticRegression)
 ├── Lesson_33/ # ИИ-помощник (рекомендации по настроению/времени)
 ├── Lesson_34/ # Рекомендатор фильмов (косинусная близость)
+├── Final_project/ # Предсказатель оценок (LinearRegression + Tkinter + JSON)
 └── README.md
 ```
 
